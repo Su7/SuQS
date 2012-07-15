@@ -2,7 +2,7 @@ SuQS
 ====
 
 A basic QuickSort implementation that alphabetically orders lines of the standard input.
-
+All the documents related to this software, including the code comments, are redacted in french.
 
 
 Compile simply using G++ :
@@ -12,7 +12,7 @@ $ g++ -o projet projet.cpp
 Usage : 
 
 We assume YourTextFile is a simple, UNIX-formatted text file.
-In the program directory, type (without the quotes...) "cat YourTextFile | ./projet" in a terminal to get the YourTextFile file alphabetically ordered.
+In the program directory, type (without the quotes...) "cat YourTextFile | ./projet" in a terminal to get the YourTextFile file alphabetically ordered in the standard output.
 
 License :
 
